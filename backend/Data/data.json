@@ -1,0 +1,103 @@
+[
+    {
+      "population": 124511,
+      "city": "Mahabubnagar",
+      "cityType": "Metro",
+      "noOfPollingStations": 5,
+      "district": "Mahabubnagar",
+      "pollingStationNames": ["Mahabubnagar", "Jadcherla", "Shadnagar","NarayanaPet","Makthal"]
+    },
+    {
+      "population": 15557,
+      "city": "Mahabubnagar_Rural",
+      "cityType": "Town",
+      "noOfPollingStations": 12,
+      "district": "Mahabubnagar",
+      "pollingStationNames": [
+        "Vepur",
+        "Ramannapally",
+        "Kistampally",
+        "Shaikpally",
+        "Boyapally",
+        "Venkatpur",
+        "Yenugonda",
+        "Mettugadda",
+        "Dharmapur",
+        "Chowdarally",
+        "Palkonda",
+        "Padmavaticolony"
+
+      ]
+    },
+    {
+      "population": 45120,
+      "city": "Jadcherla",
+      "cityType": "Village",
+      "noOfPollingStations": 11,
+      "district": "Mahabubnagar",
+      "pollingStationNames": [
+       "Badepally",
+       "MuncipalOfficeBuilding",
+       "KaverammaPeta",
+       "Alwanpally",
+       "Kallepally",
+       "Dondalapally",
+       "Lokirevu",
+       "Rajapur",
+       "Kuchur",
+       "Burgupally",
+       "Udithyal"
+      ]
+    },
+    {
+      "population": 12065,
+      "city": "Shadnagar",
+      "cityType": "Village",
+      "noOfPollingStations": 9,
+      "district": "Mahabubnagar",
+      "pollingStationNames": [
+        "Nandigama",
+        "Rangapur",
+        "Keshampet",
+        "Kothur",
+        "Siddhapur",
+        "Agiryal",
+        "Padmaram",
+        "ThommidiRekula",
+        "Bairamapally"
+      ]
+    },
+    {
+      "population": 145623,
+      "city": "Narayanapet",
+      "cityType": "Village",
+      "noOfPollingStations": 6,
+      "district": "Mahabubnagar",
+      "pollingStationNames": [
+        "Koilakonda",
+        "Ibrahimnagar",
+        "Singaram",
+        "Gunmukla",
+        "Bapanpally",
+        "Tirmalampally"
+        
+      ]
+    },
+    {
+      "population": 15557,
+      "city": "RajendraNagar",
+      "cityType": "Town",
+      "noOfPollingStations": 5,
+      "district": "Rangareddy",
+      "pollingStationNames": [
+        "Aramghar",
+        "Attapur",
+        "Hyderguda",
+        "LangerHouse",
+        "Mehdipatnam"
+
+      ]
+    }
+   
+   
+  ]
